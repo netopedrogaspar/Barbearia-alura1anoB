@@ -1,2 +1,7 @@
-body{background-color: grey;
-text-align: center;}
+body{
+}
+
+.imagem{width: 100%;}
+
+.principal{background-color: grey ;
+text-align: center; }
